@@ -1,5 +1,7 @@
 # NgrxFire
 
+Based on https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
 ## Development server
